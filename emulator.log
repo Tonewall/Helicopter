@@ -1,0 +1,23 @@
+Unknown configuration key throttle
+vbam: could not connect to socket
+vbam: No such file or directory
+VBA-M (BBA) [SDL]
+Searching for file vbam.cfg
+Searching current directory: /home/tonewall/Desktop/HW 10/Flappy Bird
+Searching home directory: /home/tonewall/.vbam
+Searching data directory: /usr/share/vbam
+Searching system config directory: /etc
+Reading configuration file.
+Searching for file vba-over.ini
+Searching current directory: /home/tonewall/Desktop/HW 10/Flappy Bird
+Searching home directory: /home/tonewall/.vbam
+Searching data directory: /usr/share/vbam
+Searching system config directory: /etc
+vba-over.ini NOT FOUND (using emulator settings)
+Trying patch lab15.ips
+Trying patch lab15.ups
+Trying patch lab15.ppf
+Trying to start LIRC: Failed
+Color depth: 32
+Shutting down
+15:11:30 15.07.2018: Wrote battery
